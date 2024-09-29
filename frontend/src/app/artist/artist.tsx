@@ -43,7 +43,7 @@ function ArtistsPage() {
 
     return (
         <div className="h-screen flex flex-col items-center mt-10">
-            <h1 className="text-4xl font-bold mb-8">Artists List</h1>
+            <h1 className="text-4xl font-bold mb-8"></h1>
             <div className="space-y-4 w-full max-w-3xl">
                 {artists.length > 0 ? (
                     artists.map((artist) => (

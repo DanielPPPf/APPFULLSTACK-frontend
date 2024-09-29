@@ -6,7 +6,7 @@ function ProductsNewPage() {
         <div className="h-screen flex justify-center items-start mt-10">
             <Card className="w-full max-w-lg p-6">
                 <CardHeader>
-                    <CardTitle className="text-2xl font-bold text-center">
+                    <CardTitle className="text-2xl font-bold text-center"> Artists Catalogue
                         
                     </CardTitle>
                 </CardHeader>
